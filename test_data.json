@@ -1,0 +1,11 @@
+{
+    "api_base_url": "https://api.poiskkino.dev",
+    "api_version": "v1.5",
+    "api_key": "65GDWHG-5S7MMSP-H42STYY-8FNF0AV",
+    "ui_base_url": "https://www.kinopoisk.ru",
+    "search_query": "Солярис",
+    "person_name": "Тарантино",
+    "genre": "комедия",
+    "country": "Россия",
+    "movie_id": 43911
+}
